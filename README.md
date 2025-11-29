@@ -1,3 +1,5 @@
+### Name:Vasukannan R
+### Reg no:212224080060
 # Aim:
 To measure energy using Single Phase Energy Meter
 
@@ -44,13 +46,19 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Circuit Connection Diagram with Tabulation 
 
-<img width="693" height="455" alt="image" src="https://github.com/user-attachments/assets/10f270a3-aed2-41ef-801b-cf5ce4752f05" />
+<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
 
-<img width="1113" height="385" alt="image" src="https://github.com/user-attachments/assets/22471ded-a654-486b-bba3-d0092b0a39db" />
+## Output Waveform
+
+<img width="1294" height="691" alt="Screenshot 2025-09-23 153532" src="https://github.com/user-attachments/assets/7040f3d9-db80-4aef-bee8-9452772d443e" />
+
 
 
 ## Result
-Thus the energy consumed in a single phase circuit is measured.
+Thus the energy has been measured using single phase energy meter.
+
+
+
 
 
 
